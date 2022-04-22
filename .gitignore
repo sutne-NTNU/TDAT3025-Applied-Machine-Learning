@@ -1,0 +1,10 @@
+# Folders
+*.idea/
+*data/
+*__pycache__/
+
+# Filetypes
+
+
+# Specific files
+*.DS_Store

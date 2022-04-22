@@ -1,0 +1,11 @@
+# Folders
+*.idea/
+*__pycache__/
+
+# File types
+*.DS_Store
+
+# Files
+*__init__.py
+*scores.txt
+
