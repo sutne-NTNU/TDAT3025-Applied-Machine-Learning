@@ -27,4 +27,9 @@ Kandidaten skal kunne finne og tilpasse løsninger til nye problemstillinger bas
 
 More info about the course can be found [here](https://www.ntnu.no/studier/emner/TDAT3025#tab=omEmnet).
 
+# Highlights
+
+## Pac-Man game i made from scratch as part of the Project
+
+![Pac-Man Game](Project%20-%20Pacman%20AI/media/environment.gif)
 
